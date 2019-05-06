@@ -1,6 +1,6 @@
 {
-  "name": "monks-palindrome",
-  "version": "0.1.0",
+  "name": "cvizena-palindrome",
+  "version": "1.0.0",
   "description": "Palindrome detector",
   "main": "index.js",
   "directories": {
